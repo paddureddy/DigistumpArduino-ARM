@@ -1,4 +1,4 @@
-DigistumpArduino for Vidyut Netbook
+DigistumpArduino for FOSSEE Laptop
 ===================================
 
 To manually install
@@ -33,7 +33,7 @@ Compiling Arduino 1.5.x
 - Unzip the source and cd to Arduino-master/build
 
 - Make the following changes to build.xml file
-   ::
+  ::
     1. Remove the "check os" dependency in linux32 target
     2. Remove the "build" dependency in linux-dist target.
 
